@@ -1,0 +1,1009 @@
+{
+"Nodes": 
+[ 
+   {   
+	"node" : "0",
+	"groups": [
+         "A",
+         "B",
+         "C"
+	    ],
+    "education" : [
+        "cse",
+        "economics",
+        "physics"
+        ],
+    "interests" : [
+        "female",
+        "physics",
+        "space",
+        "food"
+        ],
+	"workplaces": [
+        "kolkata",
+        "rcciit",
+        "manali"
+	    ],
+
+    "likes" : [
+        "A",
+        "Q",
+        "M",
+        "Z"
+        ],
+    "lives" : [
+        "kolkata",
+        "dum_dum",
+        "durganagar"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "1",
+    "groups": [
+         "C",
+         "M",
+         "D",
+         "A"
+        ],
+    "education" : [
+        "cse",
+        "biology",
+        "math",
+        "business"
+        ],
+    "interests" : [
+        "space",
+        "jokes",
+        "travel"
+        ],
+    "workplaces": [
+        "rcciit",
+        "pune"
+        ],
+
+    "likes" : [
+        "P",
+        "Z",
+        "S"
+        ],
+    "lives" : [
+        "maharastra",
+        "pune"
+        ]
+
+    },
+
+
+    
+
+
+    {   
+    "node" : "2",
+    "groups": [
+         "A",
+         "M",
+         "N",
+         "Q"
+        ],
+    "education" : [
+        "cse",
+        "math"
+        ],
+    "interests" : [
+        "cricket",
+        "puzzel",
+        "food"
+        ],
+    "workplaces": [
+        "rcciit",
+        "dps",
+        "kav"
+        ],
+
+    "likes" : [
+        "Q",
+        "M",
+        "S"
+        ],
+    "lives" : [
+        "kolkata",
+        "barasat"
+        ]
+
+    },
+
+
+
+
+
+
+    {   
+    "node" : "3",
+    "groups": [
+        "A",
+        "W",
+        "N"
+        ],
+    "education" : [
+        "cse",
+        "math",
+        "art"
+        ],
+    "interests" : [
+        "art",
+        "puzzel",
+        "football",
+        "space"
+        ],
+    "workplaces": [
+        "pune",
+        "delhi"
+        ],
+
+    "likes" : [
+        "S",
+        "M",
+        "Z"
+        ],
+    "lives" : [
+        "kolkata",
+        "gwahati"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "4",
+    "groups": [
+        "A",
+        "B",
+        "J"
+        ],
+    "education" : [
+        "cse",
+        "math"
+        ],
+    "interests" : [
+        "movies",
+        "songs"
+        ],
+    "workplaces": [
+        "rcciit",
+        "tcs",
+        "pwc"
+        ],
+
+    "likes" : [
+        "F",
+        "T",
+        "B"
+        ],
+    "lives" : [
+        "kolkata",
+        "bandra"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "5",
+    "groups": [
+        "W",
+        "B",
+        "L" 
+        ],
+    "education" : [
+        "cse",
+        "math",
+        "gate"
+        ],
+    "interests" : [
+        "female",
+        "travel",
+        "art"
+        ],
+    "workplaces": [
+        "tcs",
+        "cts"
+        ],
+
+    "likes" : [
+        "S",
+        "M",
+        "P"
+        ],
+    "lives" : [
+        
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "6",
+    "groups": [
+        "W",
+        "T",
+        "K" 
+        ],
+    "education" : [
+        "ece",
+        "physics",
+        "phd"
+        ],
+    "interests" : [
+        "male",
+        "food",
+        "games",
+        "riding"
+        ],
+    "workplaces": [
+        "irctc",
+        "psu",
+        "kav"
+        ],
+
+    "likes" : [
+        "M",
+        "Z",
+        "N"
+        ],
+    "lives" : [
+        "kolkata"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "7",
+    "groups": [
+        "V",
+        "U",
+        "D"
+        ],
+    "education" : [
+        "literature",
+        "english",
+        "jurnalism",
+        "phd"
+        ],
+    "interests" : [
+        "books",
+        "adventure",
+        "cricket",
+        "sleeping",
+        "male"
+        ],
+    "workplaces": [
+        "wbut",
+        "apc"
+        ],
+
+    "likes" : [
+        "S",
+        "K",
+        "G"
+        ],
+    "lives" : [
+        "delhi",
+        "bandra"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "8",
+    "groups": [
+        "C",
+        "T",
+        "K",
+        "L"
+        ],
+    "education" : [
+        "cse",
+        "ai",
+        "math"
+        ],
+    "interests" : [
+        "travel",
+        "fantacy",
+        "cosmology",
+        "movies"
+        ],
+    "workplaces": [
+        "kav",
+        "nhs",
+        "rcciit"
+        ],
+
+    "likes" : [
+        "X",
+        "Y",
+        "Z"
+        ],
+    "lives" : [
+        "delhi",
+        "noida"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "9",
+    "groups": [
+        "C",
+        "P",
+        "M"
+        ],
+    "education" : [
+        "cse",
+        "math",
+        "mountainning"
+        ],
+    "interests" : [
+        "travel",
+        "food",
+        "football"
+        ],
+    "workplaces": [
+        "iit",
+        "nit",
+        "db"
+        ],
+
+    "likes" : [
+        "F",
+        "B",
+        "I"
+        ],
+    "lives" : [
+        "delhi",
+        "chandnichowk"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "10",
+    "groups": [
+        "T",
+        "M",
+        "C" 
+        ],
+    "education" : [
+        "chemistry",
+        "science",
+        "phd"
+        ],
+    "interests" : [
+        "cars",
+        "bikes",
+        "games"
+        ],
+    "workplaces": [
+        "psu",
+        "ongc"
+        ],
+
+    "likes" : [
+        "P",
+        "R",
+        "A"
+        ],
+    "lives" : [
+        "kolkata",
+        "sector_v"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "11",
+    "groups": [
+         "A",
+         "D",
+         "E",
+         "C"
+        ],
+    "education" : [
+        "math",
+        "chemistry",
+        "phd"
+        ],
+    "interests" : [
+        "rafting",
+        "space",
+        "cricket",
+        "music"
+        ],
+    "workplaces": [
+        "chennai",
+        "apc"
+        ],
+
+    "likes" : [
+        "O",
+        "S",
+        "W"
+        ],
+    "lives" : [
+        "chennai"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "12",
+    "groups": [
+         "J",
+         "B",
+         "L"
+        ],
+    "education" : [
+        "math",
+        "physics"
+        ],
+    "interests" : [
+        "cars",
+        "travel",
+        "books"
+        ],
+    "workplaces": [
+        "tcs",
+        "ibm",
+        "dps"
+        ],
+
+    "likes" : [
+        "T",
+        "B",
+        "S"
+        ],
+    "lives" : [
+        "kolkata",
+        "rajarhat"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "13",
+    "groups": [
+        "A",
+        "B",
+        "M" 
+        ],
+    "education" : [
+        "cse",
+        "mba",
+        "gate"
+        ],
+    "interests" : [
+        "female",
+        "movies",
+        "painting",
+        "cars"
+        ],
+    "workplaces": [
+        "kolkata",
+        "kav"
+        ],
+
+    "likes" : [
+        "M",
+        "T",
+        "S"
+        ],
+    "lives" : [
+        "patna"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "14",
+    "groups": [
+         "A",
+         "R",
+         "G"
+        ],
+    "education" : [
+        "gate",
+        "english",
+        "cat"
+        ],
+    "interests" : [
+        "riding",
+        "puzzel",
+        "books"
+        ],
+    "workplaces": [
+        "ibm",
+        "dps"
+        ],
+
+    "likes" : [
+        "Z",
+        "L",
+        "S"
+        ],
+    "lives" : [
+        "la",
+        "america"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "15",
+    "groups": [
+        "V",
+        "H",
+        "L"
+        ],
+    "education" : [
+        "literature",
+        "english",
+        "bengali"
+        ],
+    "interests" : [
+        "books",
+        "dancing",
+        "travel",
+        "male"
+        ],
+    "workplaces": [
+        "kav",
+        "apc"
+        ],
+
+    "likes" : [
+        "S",
+        "O",
+        "Y"
+        ],
+    "lives" : [
+        "maharastra",
+        "bandra"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "16",
+    "groups": [
+        "I",
+        "U",
+        "D"
+        ],
+    "education" : [
+        "bengali",
+        "english",
+        "jurnalism"
+        ],
+    "interests" : [
+        "books",
+        "adventure",
+        "sleeping",
+        "male",
+        "movies"
+        ],
+    "workplaces": [
+        "tcs",
+        "nhs"
+        ],
+
+    "likes" : [
+        "S",
+        "K",
+        "P"
+        ],
+    "lives" : [
+        "maharastra",
+        "bandra"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "17",
+    "groups": [
+        "A",
+        "B",
+        "M"
+        ],
+    "education" : [
+        "bba",
+        "mba",
+        "economics"
+        ],
+    "interests" : [
+        "business",
+        "food",
+        "games"
+        ],
+    "workplaces": [
+        "tcs",
+        "rcciit",
+        "nhs"
+        ],
+
+    "likes" : [
+        "Z",
+        "P",
+        "B"
+        ],
+    "lives" : [
+        "kolkata",
+        "salt_lake"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "18",
+    "groups": [
+        "A",
+        "B",
+        "J"
+        ],
+    "education" : [
+        "cse",
+        "math"
+        ],
+    "interests" : [
+        "movies",
+        "songs"
+        ],
+    "workplaces": [
+        "rcciit",
+        "tcs",
+        "pwc"
+        ],
+
+    "likes" : [
+        "F",
+        "T",
+        "B"
+        ],
+    "lives" : [
+        "kolkata"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "19",
+    "groups": [
+        "C",
+        "U",
+        "M"
+        ],
+    "education" : [
+        "cse",
+        "ai",
+        "space"
+        ],
+    "interests" : [
+        "travel",
+        "space",
+        "cosmology",
+        "music"
+        ],
+    "workplaces": [
+        "ibm",
+        "nhs",
+        "rcciit"
+        ],
+
+    "likes" : [
+        "X",
+        "G",
+        "Z"
+        ],
+    "lives" : [
+        "delhi",
+        "noida"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "20",
+    "groups": [
+         "D",
+         "E",
+         "F"
+        ],
+    "education" : [
+        "it",
+        "physics"
+
+        ],
+    "interests" : [
+        "painting",
+        "travel"
+        ],
+    "workplaces": [
+        "iit",
+        "fcebook"
+        ],
+
+    "likes" : [
+        "B",
+        "T",
+        "O"
+        ],
+    "lives" : [
+        "mumbai",
+        "bandra"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "21",
+    "groups": [
+        "N",
+        "M",
+        "P",
+        "B"
+        ],
+    "education" : [
+        "phd",
+        "gate",
+        "it",
+        "physics"
+        ],
+    "interests" : [
+        "travel",
+        "cricket",
+        "music",
+        "mnc"
+        ],
+    "workplaces": [
+        "wbut",
+        "pune"
+        ],
+
+    "likes" : [
+        "F",
+        "J",
+        "M"
+        ],
+    "lives" : [
+        "kolkata"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "22",
+    "groups": [
+        "T",
+        "M",
+        "C" 
+        ],
+    "education" : [
+        "chemistry",
+        "science",
+        "phd"
+        ],
+    "interests" : [
+        "cars",
+        "bikes",
+        "games"
+        ],
+    "workplaces": [
+        "psu",
+        "ongc"
+        ],
+
+    "likes" : [
+        "P",
+        "R",
+        "A"
+        ],
+    "lives" : [
+        "kolkata",
+        "sector_v"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "23",
+    "groups": [
+         "A",
+         "D",
+         "E",
+         "C"
+        ],
+    "education" : [
+        "math",
+        "chemistry",
+        "phd"
+        ],
+    "interests" : [
+        "rafting",
+        "space",
+        "cricket",
+        "music"
+        ],
+    "workplaces": [
+        "chennai",
+        "apc"
+        ],
+
+    "likes" : [
+        "O",
+        "S",
+        "W"
+        ],
+    "lives" : [
+        "chennai"
+        ]
+
+    },
+
+
+
+
+
+    {   
+    "node" : "24",
+    "groups": [
+        "W",
+        "T",
+        "K" 
+        ],
+    "education" : [
+        "ece",
+        "physics",
+        "phd"
+        ],
+    "interests" : [
+        "male",
+        "food",
+        "games",
+        "riding"
+        ],
+    "workplaces": [
+        "irctc",
+        "bhel",
+        "kav"
+        ],
+
+    "likes" : [
+        "M",
+        "Z",
+        "N"
+        ],
+    "lives" : [
+        "kolkata"
+        ]
+
+    },
+
+
+
+
+    {   
+    "node" : "25",
+    "groups": [
+        "C",
+        "V"
+        ],
+    "education" : [
+        "btech",
+        "mtech",
+        "it"
+        ],
+    "interests" : [
+        "food",
+        "cat",
+        "travel"
+        ],
+    "workplaces": [
+        "cognizent",
+        "ibm",
+        "rcciit"
+        ],
+
+    "likes" : [
+        "S",
+        "G",
+        "I",
+        "Q"
+        ],
+    "lives" : [
+        "rajasthan",
+        "kota"
+        ]
+
+    }
+
+
+
+
+]
+}
